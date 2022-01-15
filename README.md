@@ -1,9 +1,9 @@
 # Online Dojo Web Trainer
 
-### Problem Statement (1-2 sentences)
+### Problem Statement 
 Can I create a predictive model that accurately categorizes jabs in real time?
        
-### Executive Summary (2-3 paragraphs)
+### Executive Summary
 
 I collected 1000+ picures of correct and incorrect jabs from my web cam and people at my muay thai gym. After carefully rating each jab as correct or incorrect i edited the images to add on the movenet lightning pose estimator. After adding the pose estimation skeleton I was ready to train the model based on what I had collected. It took a while to train but after hyper tuning the parameters I ended up with a 97% accuracy rate.
 
